@@ -48,5 +48,3 @@ The application:
 2. Uses `Math.random()` to select random elements.
 3. Combines them into a final message.
 4. Displays the message on the webpage.
-
-Example output:
